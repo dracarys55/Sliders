@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dracarys55/Sliders/static/css/main.96f29ef5.chunk.css",
+    "main.js": "/dracarys55/Sliders/static/js/main.6f8d2ff8.chunk.js",
+    "main.js.map": "/dracarys55/Sliders/static/js/main.6f8d2ff8.chunk.js.map",
+    "runtime-main.js": "/dracarys55/Sliders/static/js/runtime-main.d8343f10.js",
+    "runtime-main.js.map": "/dracarys55/Sliders/static/js/runtime-main.d8343f10.js.map",
+    "static/js/2.e8a7f417.chunk.js": "/dracarys55/Sliders/static/js/2.e8a7f417.chunk.js",
+    "static/js/2.e8a7f417.chunk.js.map": "/dracarys55/Sliders/static/js/2.e8a7f417.chunk.js.map",
+    "index.html": "/dracarys55/Sliders/index.html",
+    "static/css/main.96f29ef5.chunk.css.map": "/dracarys55/Sliders/static/css/main.96f29ef5.chunk.css.map",
+    "static/js/2.e8a7f417.chunk.js.LICENSE.txt": "/dracarys55/Sliders/static/js/2.e8a7f417.chunk.js.LICENSE.txt",
+    "static/media/kelly-sikkema-r077pfFsdaU-unsplash.60135fe5.jpg": "/dracarys55/Sliders/static/media/kelly-sikkema-r077pfFsdaU-unsplash.60135fe5.jpg",
+    "static/media/ricky-kharawala-adK3Vu70DEQ-unsplash.085d789b.jpg": "/dracarys55/Sliders/static/media/ricky-kharawala-adK3Vu70DEQ-unsplash.085d789b.jpg",
+    "static/media/ronald-gijezen-7h06P9UKhYY-unsplash.45f41eb3.jpg": "/dracarys55/Sliders/static/media/ronald-gijezen-7h06P9UKhYY-unsplash.45f41eb3.jpg",
+    "static/media/simon-rae-jY_2XG-6HU0-unsplash.98f5710d.jpg": "/dracarys55/Sliders/static/media/simon-rae-jY_2XG-6HU0-unsplash.98f5710d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8343f10.js",
+    "static/js/2.e8a7f417.chunk.js",
+    "static/css/main.96f29ef5.chunk.css",
+    "static/js/main.6f8d2ff8.chunk.js"
+  ]
+}
