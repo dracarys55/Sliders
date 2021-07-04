@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 面試題目: 透過React 製作無限輪播圖
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
